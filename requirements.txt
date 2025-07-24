@@ -2,5 +2,4 @@ streamlit
 pandas
 geopy
 folium
-html
 re
